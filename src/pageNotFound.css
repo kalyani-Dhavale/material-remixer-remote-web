@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    text-align: center;
+    margin: 10% 10%;
+    line-height: 24px;
+}
+main h2{
+    margin: 10vh auto;
+    font-size: 35px;
+}
+button{
+    padding: 10px 10px;
+    background-color: rgb(86, 142, 248);
+    border: 0.5px solid ;
+    margin: 5vh auto;
+    border-radius: 5px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button:hover{
+    box-shadow: 2px 2px 6px gray;
+}
